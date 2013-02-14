@@ -1,0 +1,14 @@
+{
+    "bots": [
+        {
+            "gh": {
+                "public": "xxx",
+                "secret": "9999999999999999999"
+            },
+            "port": 1337,
+            "userid": "hexhexhex",
+            "auth": "asdf",
+            "roomid": "hexhexhex"
+        }
+    ]
+}
